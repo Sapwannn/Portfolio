@@ -521,7 +521,7 @@ footer img {
 
 /* Content (layar kecil) */
 
-@media screen and (min-width: 450px) and (max-width: 702px) {
+/* @media screen and (min-width: 450px) and (max-width: 702px) {
   .profile {
     display: flex;
     flex-direction: column;
@@ -533,7 +533,7 @@ footer img {
   }
 
 
-}
+} */
 
 /* profile (layar kecil) */
 
